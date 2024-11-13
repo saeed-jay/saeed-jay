@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, This is Saeed</h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pravindurairaj.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
