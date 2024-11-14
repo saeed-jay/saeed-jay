@@ -11,7 +11,7 @@
 ### Finance & Analytics Tools
 
 [![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=for-the-badge&logo=bloomberg&logoColor=white)](https://www.bloomberg.com/professional/)
-[![Refinitiv Eikon](https://img.shields.io/badge/Refinitiv%20Eikon-1C6F94?style=for-the-badge&logo=refinitiv&logoColor=white)](https://www.refinitiv.com/en/products/eikon-trading-software)[![Power BI](https://img.shields.io/badge/Power%20BI-FFB913?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  [![Tableau](https://img.shields.io/badge/Tableau-1E50A2?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  [![IBM SPSS Statistics](https://img.shields.io/badge/IBM%20SPSS%20Statistics-003B5C?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/spss-statistics)
+[![Refinitiv Eikon](https://img.shields.io/badge/Refinitiv%20Eikon-1C6F94?style=for-the-badge&logo=refinitiv&logoColor=white)](https://www.refinitiv.com/en/products/eikon-trading-software) [![Power BI](https://img.shields.io/badge/Power%20BI-FFB913?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  [![Tableau](https://img.shields.io/badge/Tableau-1E50A2?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  [![IBM SPSS Statistics](https://img.shields.io/badge/IBM%20SPSS%20Statistics-003B5C?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/spss-statistics)
 
 
 ### Languages and Frameworks
@@ -31,12 +31,12 @@
 
 ### Terimals
 
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white) 
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white) 
 
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
 
